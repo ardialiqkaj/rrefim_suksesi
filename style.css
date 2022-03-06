@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav h1{
+    text-align: left;
+    padding: 15px;
+}
+.topnav a{
+    color: seagreen;
+    text-align: left;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+  }
